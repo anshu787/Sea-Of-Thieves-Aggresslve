@@ -1,0 +1,4 @@
+com/danieldallos/storeredirect/BuildConfig.java
+ com.danieldallos.storeredirect.BuildConfig
+com/danieldallos/storeredirect/StoreRedirectPlugin.java
+ com.danieldallos.storeredirect.StoreRedirectPlugin
