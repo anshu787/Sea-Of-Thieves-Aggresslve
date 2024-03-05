@@ -1,8 +1,0 @@
-{
-  "api_base_url": "https://app.portfolioze.com/",
-  "firstColor": "#68c235",
-  "secondColor": "#597ae2",
-  "appIdOneSignal": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-  "defaultLanguage": "en",
-  "deeplink": "app.flyweb.portfolize"
-}
